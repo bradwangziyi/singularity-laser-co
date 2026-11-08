@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" role="img" aria-labelledby="title desc">
+  <title id="title">Engraved winery glassware placeholder</title><desc id="desc">Illustration of a marked wine glass on a dark tasting-room background; replace with a finished-work photo.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#342b2c"/><stop offset="1" stop-color="#151719"/></linearGradient><linearGradient id="glass" x2=".8" y2="1"><stop stop-color="#fff" stop-opacity=".48"/><stop offset=".5" stop-color="#c9d2d3" stop-opacity=".08"/><stop offset="1" stop-color="#fff" stop-opacity=".27"/></linearGradient></defs>
+  <rect width="720" height="540" fill="url(#bg)"/><circle cx="555" cy="160" r="100" fill="#ff3b3b" opacity=".1"/><path d="M0 415h720" stroke="#67605b" stroke-width="3" opacity=".6"/>
+  <path d="M250 104h220l-20 142c-9 59-42 94-90 100-48-6-81-41-90-100l-20-142Z" fill="url(#glass)" stroke="#e1e6e5" stroke-opacity=".7" stroke-width="5"/><path d="M270 187h180l-10 59c-8 52-35 77-80 83-45-6-72-31-80-83l-10-59Z" fill="#763c36" opacity=".76"/><path d="M360 346v90m-62 7h124" stroke="#d8dfdf" stroke-opacity=".75" stroke-width="7" stroke-linecap="round"/>
+  <path d="m316 245 44-50 44 50h-29l-15-19-15 19h-29Z" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="3"/><text x="360" y="286" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="13" letter-spacing="2">NIAGARA</text>
+  <text x="360" y="505" text-anchor="middle" fill="#d0d2d3" font-family="system-ui,sans-serif" font-size="14" letter-spacing="3">PHOTO PLACEHOLDER</text>
+</svg>

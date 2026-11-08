@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Singularity Laser Co. mark</title>
+  <rect x="2" y="2" width="44" height="44" rx="10" fill="#17191c" stroke="#42474d"/>
+  <path d="M11 31.5 24 8l13 23.5h-8.3L24 21l-4.7 10.5H11Z" fill="none" stroke="#ff3b3b" stroke-linejoin="round" stroke-width="2.4"/>
+  <path d="M14 37h20" stroke="#f3f4f4" stroke-linecap="round" stroke-width="2"/>
+</svg>
