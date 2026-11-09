@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" role="img" aria-labelledby="title desc">
+  <title id="title">3D-printed tabletop terrain placeholder</title><desc id="desc">Illustrated modular terrain tiles for tabletop games; replace with a photo of actual prints.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#29332f"/><stop offset="1" stop-color="#121615"/></linearGradient></defs>
+  <rect width="720" height="540" fill="url(#bg)"/><path d="m160 321 200-111 200 111-200 111Z" fill="#565d51" stroke="#a3a890" stroke-width="3"/><path d="m160 321 200 111v-88L160 244Z" fill="#373e39"/><path d="m560 321-200 111v-88l200-100Z" fill="#2b312d"/><path d="m250 270 110-61 112 62-111 62Z" fill="#777960" stroke="#c1c09b" stroke-width="3"/><path d="m250 270 111 63v-43l-111-63Z" fill="#4a5145"/><path d="m472 271-111 62v-43l111-62Z" fill="#343a33"/><path d="M320 202v-48l40-23 42 23v47" fill="#626655" stroke="#b8b698" stroke-width="3"/><text x="360" y="490" text-anchor="middle" fill="#d0d2d3" font-family="system-ui,sans-serif" font-size="14" letter-spacing="3">PRINT PHOTO PLACEHOLDER</text>
+</svg>

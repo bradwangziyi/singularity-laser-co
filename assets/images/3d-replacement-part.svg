@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" role="img" aria-labelledby="title desc">
+  <title id="title">3D-printed replacement part placeholder</title><desc id="desc">Illustration of a custom replacement bracket with measured dimensions; replace with a real print photo.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#29343a"/><stop offset="1" stop-color="#111416"/></linearGradient></defs>
+  <rect width="720" height="540" fill="url(#bg)"/><path d="M252 333V197h64v76h152v60Z" fill="#68747a" stroke="#c2c9cb" stroke-width="5"/><circle cx="283" cy="220" r="12" fill="#1e2529"/><circle cx="443" cy="303" r="12" fill="#1e2529"/><path d="M208 197h-26m-3 0 11-9m-11 9 11 9m338 76h-34m34 0-11-9m11 9-11 9" fill="none" stroke="#ff7777" stroke-width="3"/><path d="M180 358h335" stroke="#889197" stroke-dasharray="6 8" stroke-width="2"/><text x="360" y="490" text-anchor="middle" fill="#d0d2d3" font-family="system-ui,sans-serif" font-size="14" letter-spacing="3">PRINT PHOTO PLACEHOLDER</text>
+</svg>
